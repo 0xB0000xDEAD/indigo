@@ -3,7 +3,7 @@ name: Sergio Salonna
 bio: A Man who code eating noodles
 
 # twitter summary info
-description: "The one who says it cannot be done should never interrupt the one who is doing it." 
+description: "The one who says it cannot be done should never interrupt the one who is doing it."
 
 # if it's an external image, update below for true
 # better with square images
@@ -59,7 +59,7 @@ authors:
         external-image: false
         picture: assets/images/me.jpg
         twitter: placeholder
-    
+
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -75,7 +75,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+# blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
